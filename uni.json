@@ -86,8 +86,30 @@
     "name": "Alex Ekwueme Federal University, Ndufu-Alike",
     "acronym": "FUNAI",
     "motto": "Excellence and Integrity",
-    "web": "https://www.aksu.edu.ng/",
+    "web": "https://funai.edu.ng/",
+    "logo": ""
+},
+{
+    "name": "Al-Hikmah University",
+    "acronym": "HUI",
+    "motto": "Learning for wisdom and morality",
+    "web": "https://alhikmahuniversity.edu.ng/",
+    "logo": ""
+},
+{
+    "name": "Al-Qalam University, Katsina",
+    "acronym": "AUK",
+    "motto": "Non Found",
+    "web": "http://www.auk.edu.ng/",
+    "logo": ""
+},
+{
+    "name": "Ambrose Alli University",
+    "acronym": "AAU",
+    "motto": "Knowledge for Advancement",
+    "web": "https://www.aauekpoma.edu.ng/",
     "logo": ""
 }
+
 
 ]

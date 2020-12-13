@@ -1,0 +1,31 @@
+{
+  "name": "nigerian_universities",
+  "version": "1.0.0",
+  "description": "List of nigerian universities and their logos",
+  "main": "server.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production nodemon server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdioleDivine/nigerian-universities.git"
+  },
+  "keywords": [
+    "Universities"
+  ],
+  "author": "Adiole Divine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdioleDivine/nigerian-universities/issues"
+  },
+  "homepage": "https://github.com/AdioleDivine/nigerian-universities#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  }
+}

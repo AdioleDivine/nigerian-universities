@@ -7,7 +7,7 @@ This project aims to help developers in building university based applications. 
 
 ## Usage
 
-Make a get request to `https://nigerianbanks.xyz`
+Make a get request to `https://nigerian-universities.herokuapp.com/`
 
 ## Prerequisites
 * [Node](https://nodejs.org/en/download/) installed on your machine
@@ -42,8 +42,8 @@ Your application will run port `7080` by default, you can change that in the `.e
 
 ## Contributors
 
-* Adiole Divine - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'](https://github.com/AdioleDivine)
+* Adiole Divine - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/AdioleDivine)
 
 ## Authors
 
-* Adiole Divine - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'](https://github.com/AdioleDivine)
+* Adiole Divine - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/AdioleDivine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/AdioleDivine)

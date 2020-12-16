@@ -4,6 +4,5 @@ const router = express.Router()
 
 router.get('/', actions.getBanks)
 
-router.post('/search', actions.search)
 
 module.exports = router 

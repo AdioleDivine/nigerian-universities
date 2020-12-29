@@ -2,7 +2,7 @@ const express = require('express')
 const morgan = require('morgan')
 const cors = require('cors')
 const bodyParser = require('body-parser')
-const routes = require('../Universities/routes/index')  
+const routes = require('./routes/index')  
 const dotenv = require('dotenv');
 
 
@@ -20,6 +20,6 @@ app.use(routes)
 
 
 const PORT = process.env.PORT
-const ENV  = process.env.NODE_ENV
+const NODE_ENV  = process.env.NODE_ENV
 
-app.listen(PORT, console.log(`Foodie's Api running in ${ENV} mode on port ${PORT}`))
+app.listen(PORT, console.log(`Foodie's Api running in ${NODE_ENV} mode on port ${PORT}`))

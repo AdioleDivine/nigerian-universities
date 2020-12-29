@@ -2,6 +2,7 @@ const express = require ('express')
 const actions = require ('../methods/actions')
 const router = express.Router()
 
-router.get('/', actions.getBanks)
+router.get('/universities', actions.getUniversities)
+
 
 module.exports = router 
